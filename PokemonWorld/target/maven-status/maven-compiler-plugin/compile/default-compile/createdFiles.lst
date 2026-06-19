@@ -1,0 +1,16 @@
+com\pokemon\exception\GlobalExceptionHandler.class
+com\pokemon\service\EntrenadorService.class
+com\pokemon\service\PokemonService.class
+com\pokemon\dto\PokemonResponseDTO.class
+com\pokemon\model\Entrenador.class
+com\pokemon\repository\EntrenadorRepository.class
+com\pokemon\controller\PokemonController.class
+com\pokemon\exception\ResourceNotFoundException.class
+com\pokemon\controller\EntrenadorController.class
+com\pokemon\dto\LoginRequestDTO.class
+com\pokemon\model\TipoPokemon.class
+com\pokemon\dto\LoginResponseDTO.class
+com\pokemon\model\Pokemon.class
+com\pokemon\repository\PokemonRepository.class
+com\pokemon\PokemonApplication.class
+com\pokemon\dto\TipoPokemonDTO.class
